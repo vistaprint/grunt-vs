@@ -2,14 +2,16 @@
   "name": "grunt-vs",
   "version": "0.0.1",
   "description": "Build your VS projects",
-  "repository": "",
+  "repository": "http://github.com/vistaprint/grunt-vs.git",
   "author": {
     "name": "Tyler Steele",
     "email": "tsteele@vistaprint.com",
-    "url": ""
+    "url": "https://github.com/vistaprint/grunt-vs"
   },
   "keywords": [
-    "gruntplugin"
+    "gruntplugin",
+    "visual studio",
+    "build"
   ],
   "main": "Gruntfile.js",
   "engines": {
